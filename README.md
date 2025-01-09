@@ -1,4 +1,3 @@
-# Chetan-WebAPIAssignment
 # Customer Reward Program - Spring boot Application 
 
 This Spring Boot application calculates reward points for customers based on their monthly transactions. The application follows a RESTful architecture and includes a fully functional backend service.
@@ -21,4 +20,3 @@ Spring Boot application that calculates reward points based on customer transact
 2)Service to calculate reward points.
 3)Model for transactions and customers.
 4)Data set to demonstrate the solution.
-
