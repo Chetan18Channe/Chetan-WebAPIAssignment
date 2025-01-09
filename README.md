@@ -21,3 +21,9 @@ Spring Boot application that calculates reward points based on customer transact
 2)Service to calculate reward points.
 3)Model for transactions and customers.
 4)Data set to demonstrate the solution.
+
+Please refer RewardApp.docx file and URL
+
+URL:
+http://localhost:8080/rewards/calculate
+
